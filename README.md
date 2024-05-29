@@ -11,5 +11,5 @@ Sample notebook configured to use a deployed GPT-4o model in Azure OpenAI outsid
 The index used in this demo is created usin the wizard experience: "Import and vectorize data" in AI Search: 
 ![image](https://github.com/7effrey89/OpenAI_FunctionCalling/assets/30802073/4568eeb2-53a7-43c3-8c9b-2413243f37ae)
 
-The final index look like this:
+The final index look like this after the brochures have been ingested :
 ![image](https://github.com/7effrey89/OpenAI_FunctionCalling/assets/30802073/465b80c5-ccdd-48c8-8431-81228a5bd644)
