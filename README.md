@@ -6,4 +6,4 @@ Demo also utilizes Function Calling in OpenAI GPT4, and keeps the chat history u
 This way the the llm always has the best context of where the dialog is moving.
 
 ## Using Azure OpenAI outside of Fabric (OpenAI GPT-4o)
-Sample notebook configured to use a deployed GPT-4o model in Azure OpenAI outside of Fabric. The demo also utilizes Function Calling and calls AI Search to retrieve information from both keyword and vector index (Hybrid Search) to accomplish RAG.
+Sample notebook configured to use a deployed GPT-4o model in Azure OpenAI outside of Fabric. The demo also utilizes Function Calling and calls Azure AI Search to retrieve information from both keyword and vector index (Hybrid Search) to accomplish RAG.
